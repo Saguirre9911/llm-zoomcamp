@@ -5,7 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "elasticsearch>=9.0.2",
+    "elasticsearch<9.0,>=8.0",
     "ipykernel>=6.29.5",
     "minsearch>=0.0.3",
     "notebook==7.1.2",
