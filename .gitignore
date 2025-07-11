@@ -193,6 +193,7 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-*/elasticsearch_data
+elasticsearch_data
 .ckp
 */translog
+.vscode
