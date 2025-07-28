@@ -197,3 +197,4 @@ elasticsearch_data
 .ckp
 */translog
 .vscode
+02-vector-search/data/*
